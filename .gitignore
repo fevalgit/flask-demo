@@ -1,0 +1,5 @@
+flask-demo-image.tar
+*.tar
+venv/
+__pycache__/
+*.pyc
